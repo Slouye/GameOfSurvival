@@ -1,0 +1,1 @@
+[{"PosX":"40.91","PosY":"0","PosZ":"98.07","RotX":"0","RotY":"0","RotZ":"0","RotW":"1","ModelName":"Platform"}]
